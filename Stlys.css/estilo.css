@@ -26,3 +26,22 @@ div{
     border: 2px solid black;
     border-radius: 15px;
 }
+
+/*Video representativo*/
+
+#flex{
+    
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+    padding: 0%;
+    
+    
+}
+.video{
+    width: 25%;  
+    background: rgba(12, 234, 250, 0.7);
+    margin: 1%;
+    border: none;
+    
+}
