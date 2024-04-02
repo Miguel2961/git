@@ -38,7 +38,7 @@ div{
     display: flex;
     justify-content: space-around;
     align-items: baseline;
-    background-image: url(/Stlys.css/imagenes/mi-diversión.png);
+    background: rgba(250, 246, 12, 0.7);
     background-size: contain;
     
 
