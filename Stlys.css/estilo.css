@@ -28,7 +28,11 @@ div{
 }
 
 /*Video representativo*/
-
+#container{
+    background-image: url(/Stlys.css/imagenes/mi-diversión.png);
+    background-size: cover; 
+    margin: 5%;
+}
 #flex{
     
     display: flex;
@@ -37,6 +41,7 @@ div{
     background-image: url(/Stlys.css/imagenes/mi-diversión.png);
     background-size: contain;
     
+
     padding: 0%;
     
     
@@ -44,6 +49,6 @@ div{
 .video{
     width: 25%;  
     background: rgba(12, 234, 250, 0.7);
-    margin: 1%;
+    margin: 3%;
     border: none;
 }
